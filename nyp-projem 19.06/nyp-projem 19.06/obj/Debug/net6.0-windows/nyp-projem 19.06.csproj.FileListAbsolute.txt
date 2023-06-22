@@ -1,0 +1,7 @@
+C:\Users\hiloc\OneDrive\Masaüstü\visual studio ödevleri\nyp-projem 19.06\nyp-projem 19.06\obj\Debug\net6.0-windows\nyp-projem 19.06.csproj.AssemblyReference.cache
+C:\Users\hiloc\OneDrive\Masaüstü\visual studio ödevleri\nyp-projem 19.06\nyp-projem 19.06\obj\Debug\net6.0-windows\nyp_projem_19._06.Form1.resources
+C:\Users\hiloc\OneDrive\Masaüstü\visual studio ödevleri\nyp-projem 19.06\nyp-projem 19.06\obj\Debug\net6.0-windows\nyp-projem 19.06.csproj.GenerateResource.cache
+C:\Users\hiloc\OneDrive\Masaüstü\visual studio ödevleri\nyp-projem 19.06\nyp-projem 19.06\obj\Debug\net6.0-windows\nyp-projem 19.06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiloc\OneDrive\Masaüstü\visual studio ödevleri\nyp-projem 19.06\nyp-projem 19.06\obj\Debug\net6.0-windows\nyp-projem 19.06.AssemblyInfoInputs.cache
+C:\Users\hiloc\OneDrive\Masaüstü\visual studio ödevleri\nyp-projem 19.06\nyp-projem 19.06\obj\Debug\net6.0-windows\nyp-projem 19.06.AssemblyInfo.cs
+C:\Users\hiloc\OneDrive\Masaüstü\visual studio ödevleri\nyp-projem 19.06\nyp-projem 19.06\obj\Debug\net6.0-windows\nyp-projem 19.06.csproj.CoreCompileInputs.cache
